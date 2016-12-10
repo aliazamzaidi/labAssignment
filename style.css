@@ -1,0 +1,29 @@
+.container {
+    background-color: lightslategrey;
+    height: 150ex;
+}
+#form1{
+    padding-top: 12em;
+    padding-left: 4em;
+    padding-right: 6em;
+}
+#form2{
+    padding-top: 12em;
+    padding-left: 4em;
+       padding-right: 6em;
+}
+.btn{
+    margin: 4em;
+}
+.div1{
+    display:block;
+}
+.div2{
+    display: none;
+}
+table, th, td{
+    border: 2px double black;
+    padding: 3em;
+    font-weight: bold;
+    margin: 5em 40%;
+}
